@@ -1,0 +1,67 @@
+﻿[
+    {
+        "id":  1,
+        "game_name":  "Pokémon Sleep",
+        "release_date":  "2023-07-02T21:00:00.000Z",
+        "minimum_age":  1,
+        "price":  "0.00",
+        "duration":  35,
+        "platform":  "iOS, Android",
+        "genre":  "Sleep app",
+        "game_description":  "Pokémon Sleep is a unique app that blends gaming with sleep tracking. The game encourages players to sleep well by turning sleep data into gameplay. You place your phone next to you while sleeping, and the app tracks your sleep patterns. Based on how well you sleep, different Pokémon will appear, and you can work to catch them and add them to your collection. The goal is to make sleep enjoyable and educational by encouraging healthy sleep habits. The app also includes a community feature, where players can share their sleep experiences and goals.",
+        "game_image":  "pokmon-sleep-ios-android-1771695243370-295836514.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  2,
+        "game_name":  "Pokémon Café ReMix",
+        "release_date":  "2020-06-20T21:00:00.000Z",
+        "minimum_age":  4,
+        "price":  "40.00",
+        "duration":  53,
+        "platform":  "iOS, Android, Nintendo Switch",
+        "genre":  "adventure",
+        "game_description":  "Pokémon Café ReMix is a free-to-play puzzle game where you run a café with the help of your Pokémon. You solve puzzles by connecting tiles in order to prepare food and drinks for your Pokémon customers. As you progress through the game, you can recruit new Pokémon to work at your café, each with their unique abilities that help you with puzzles. The game features cute, colorful visuals and regularly introduces new events and challenges. It’s a casual and fun game designed for players of all ages who enjoy relaxing puzzle gameplay.",
+        "game_image":  "pokmon-caf-remix-ios-android-nintendo-switch-1771695352617-695211208.png",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  3,
+        "game_name":  "Detective Pikachu",
+        "release_date":  "2016-03-07T22:00:00.000Z",
+        "minimum_age":  7,
+        "price":  "40.00",
+        "duration":  15,
+        "platform":  "Nintendo 3DS, Switch",
+        "genre":  "adventure crime",
+        "game_description":  "Detective Pikachu is an adventure game set in a world where Pokémon and humans coexist. Players take on the role of a young man named Tim Goodman, who teams up with a very special Pikachu, who happens to be a detective with a knack for solving mysteries. What makes this Pikachu unique is that he can speak English (or Japanese, depending on the region) and has a witty, charming personality. The game is a point-and-click adventure, where you explore various locations, interact with other Pokémon and humans, solve puzzles, and piece together clues to solve a large mystery involving Tim’s father. The game has a strong narrative focus, combining detective work with humor and heartwarming moments.",
+        "game_image":  "detective-pikachu-nintendo-3ds-switch-1771695457405-648251340.png",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  4,
+        "game_name":  "Pokémon Pokopia",
+        "release_date":  "2026-03-04T22:00:00.000Z",
+        "minimum_age":  1,
+        "price":  "69.99",
+        "duration":  40,
+        "platform":  "Switch 2",
+        "genre":  "Life simulation",
+        "game_description":  "Players control a Ditto who is imitating a human. The game features crafting and building mechanics that players use to befriend new Pokémon, who can then teach the Ditto new moves to use to interact with the environment. As players progress and build the area around them, they attract more Pokémon. The game has a day and night cycle linked to real world time and features different biomes.",
+        "game_image":  "pokmon-pokopia-switch-2-1771765797464-281084036.png",
+        "added_by_user":  "ash_ketchu"
+    },
+    {
+        "id":  5,
+        "game_name":  "Pokémon Access",
+        "release_date":  "2025-07-27T21:00:00.000Z",
+        "minimum_age":  4,
+        "price":  "0.00",
+        "duration":  23,
+        "platform":  "iOS, Android",
+        "genre":  "Tourments",
+        "game_description":  "Pokémon Access puts you on the path to discovering new events happening in your area. Plus, it provides tools to make starting your Pokémon journey a breeze—you can search for tournaments for the Pokémon video games, Pokémon Trading Card Game, and Pokémon ",
+        "game_image":  "pokmon-access-ios-android-1771765915981-910306131.png",
+        "added_by_user":  "ash_ketchu"
+    }
+]

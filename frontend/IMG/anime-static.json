@@ -1,0 +1,122 @@
+﻿[
+    {
+        "id":  1,
+        "season_name":  "Pokémon: Indigo League",
+        "seasons":  1,
+        "episodes":  82,
+        "start_date":  "1997-03-31T21:00:00.000Z",
+        "end_date":  "1999-10-10T22:00:00.000Z",
+        "anime_title":  "Season 1: Pokémon: The Original Series",
+        "anime_description":  "Ash Ketchum, a 10-year-old from Pallet Town, begins his journey to become a Pokémon Master in the Kanto region. Alongside his friends Misty and Brock, Ash travels to different towns, collecting Gym Badges and encountering the villainous Team Rocket. This season introduces iconic Pokémon like Pikachu, Bulbasaur, Charmander, and Squirtle.",
+        "anime_image":  "season-1-pokmon-the-original-series-pokmon-indigo-league-1771681679120-73352240.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  2,
+        "season_name":  "Pokémon: Adventures in the Orange Islands",
+        "seasons":  2,
+        "episodes":  36,
+        "start_date":  "1999-10-12T22:00:00.000Z",
+        "end_date":  "2000-11-20T22:00:00.000Z",
+        "anime_title":  "Season 2: Pokémon: The Original Series",
+        "anime_description":  "Ash travels to the Orange Archipelago to compete in the Orange League, where he faces a new set of challenges. He is joined by Misty and Tracey, and they encounter new Pokémon. The season is notable for introducing the unique concept of the Orange League, different from the typical Gym Challenges.",
+        "anime_image":  "season-2-pokmon-the-original-series-pokmon-adventures-in-the-orange-islands-1771681768042-471966875.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  3,
+        "season_name":  "Pokémon: The Johto Journeys",
+        "seasons":  3,
+        "episodes":  41,
+        "start_date":  "2000-10-10T22:00:00.000Z",
+        "end_date":  "2001-10-20T22:00:00.000Z",
+        "anime_title":  "Season 3: Pokémon: The Original Series",
+        "anime_description":  "Ash and his friends Brock and Misty travel to the Johto region, where Ash begins his journey to collect Badges for the Johto League. He also catches new Pokémon, such as Totodile, Chikorita, and Cyndaquil. Meanwhile, Team Rocket continues its antics and faces new challenges.",
+        "anime_image":  "season-3-pokmon-the-original-series-pokmon-the-johto-journeys-1771681854430-141328610.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  4,
+        "season_name":  "Pokémon: Johto Journeys",
+        "seasons":  4,
+        "episodes":  42,
+        "start_date":  "2001-10-09T22:00:00.000Z",
+        "end_date":  "2002-10-08T22:00:00.000Z",
+        "anime_title":  "Season 4: Pokémon: The Original Series",
+        "anime_description":  "Ash and his team continue their journey in Johto, battling Gym Leaders and encountering new rivals. This season also introduces the legendary Pokémon, such as Entei and Suicune, and further explores the Johto region’s mysteries.",
+        "anime_image":  "season-4-pokmon-the-original-series-pokmon-johto-journeys-1771681955192-633189916.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  5,
+        "season_name":  "Pokémon: Johto League Champions",
+        "seasons":  5,
+        "episodes":  41,
+        "start_date":  "2002-10-15T22:00:00.000Z",
+        "end_date":  "2003-11-18T22:00:00.000Z",
+        "anime_title":  "Season 5: Pokémon: The Original Series",
+        "anime_description":  "Ash competes in the Johto League Championship, working toward his goal of becoming a Pokémon Master. As he continues to gather more experience, Ash faces his toughest challenges yet in both his Gym battles and rivalry with the Johto League Champions.",
+        "anime_image":  "season-5-pokmon-the-original-series-pokmon-johto-league-champions-1771682038570-223994344.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  6,
+        "season_name":  "Pokémon: Master Quest",
+        "seasons":  6,
+        "episodes":  65,
+        "start_date":  "2003-11-25T22:00:00.000Z",
+        "end_date":  "2004-09-23T22:00:00.000Z",
+        "anime_title":  "Season 6: Pokémon: The Original Series",
+        "anime_description":  "Ash\u0027s final season in Johto, as he prepares for the Johto League tournament. He faces new challenges and rivals, culminating in his final battles in the region. Misty and Brock continue to support him on his quest.",
+        "anime_image":  "season-6-pokmon-the-original-series-pokmon-master-quest-1771682215008-250544889.jpg",
+        "added_by_user":  "dummy1"
+    },
+    {
+        "id":  7,
+        "season_name":  "Pokémon: Advanced Battle",
+        "seasons":  7,
+        "episodes":  40,
+        "start_date":  "2004-09-08T21:00:00.000Z",
+        "end_date":  "2005-09-07T21:00:00.000Z",
+        "anime_title":  "Season 7: Pokémon: Advanced Battle",
+        "anime_description":  "This season continues Ash Ketchum\u0027s journey in the Hoenn region, where he competes in the Hoenn League and faces many new challenges and rivals. With his new friends, May, Brock, and newcomer Max, Ash strives to become a Pokémon Master while encountering new Pokémon, including Regi Legendary Pokémon. May also participates in the Pokémon Contests and earns ribbons to compete in the Grand Festival.",
+        "anime_image":  "season-7-pokmon-advanced-battle-pokmon-advanced-battle-1771765381092-293823034.jpg",
+        "added_by_user":  "ash_ketchu"
+    },
+    {
+        "id":  8,
+        "season_name":  "Pokémon: Battle Frontier",
+        "seasons":  8,
+        "episodes":  47,
+        "start_date":  "2005-09-08T21:00:00.000Z",
+        "end_date":  "2006-09-13T21:00:00.000Z",
+        "anime_title":  "Season 8: Pokémon: Battle Frontier",
+        "anime_description":  "Ash and his friends continue their journey in the Hoenn region and face the Battle Frontier, a series of specialized battle facilities where Ash must take on powerful Frontier Brains to earn symbols. May also grows as a Trainer, with her ultimate goal being to win the Hoenn Grand Festival. This season introduces a new set of challenges and showcases Ash’s battle skills as he continues his quest to become a Pokémon Master.",
+        "anime_image":  "season-8-pokmon-battle-frontier-pokmon-battle-frontier-1771765457747-209046368.jpg",
+        "added_by_user":  "ash_ketchu"
+    },
+    {
+        "id":  9,
+        "season_name":  "Pokémon: Diamond \u0026 Pearl",
+        "seasons":  9,
+        "episodes":  52,
+        "start_date":  "2006-09-27T21:00:00.000Z",
+        "end_date":  "2007-05-16T21:00:00.000Z",
+        "anime_title":  "Season 9: Pokémon: Diamond \u0026 Pearl",
+        "anime_description":  "Ash, Pikachu, and Brock head to the Sinnoh region, where they meet new friends like Dawn, a budding Pokémon Coordinator. This season sees Ash and Dawn take on the Sinnoh Gym Leaders and travel through various parts of the region. Dawn competes in Pokémon Contests while Ash works towards the Sinnoh League. The region introduces many new Pokémon and the Legendary Pokémon Dialga and Palkia.",
+        "anime_image":  "season-9-pokmon-diamond-pearl-pokmon-diamond-pearl-1771765506743-412032973.jpg",
+        "added_by_user":  "ash_ketchu"
+    },
+    {
+        "id":  10,
+        "season_name":  "Pokémon: Diamond \u0026 Pearl Battle Dimension",
+        "seasons":  10,
+        "episodes":  52,
+        "start_date":  "2007-09-12T21:00:00.000Z",
+        "end_date":  "2008-05-14T21:00:00.000Z",
+        "anime_title":  "Season 10: Pokémon: Diamond \u0026 Pearl Battle Dimension",
+        "anime_description":  "In this season, Ash and his friends continue their journey through Sinnoh, aiming to defeat Gym Leaders and progress toward the Sinnoh League. Dawn participates in more Pokémon Contests, and the trio faces new challenges, including the introduction of Team Galactic, the villainous team plotting to control the Legendary Pokémon, Dialga and Palkia. Ash also receives the help of new rivals, including Paul, a fierce competitor who challenges Ash’s skills.",
+        "anime_image":  "season-10-pokmon-diamond-pearl-battle-dimension-pokmon-diamond-pearl-battle-dimension-1771765561574-894150224.jpg",
+        "added_by_user":  "ash_ketchu"
+    }
+]
